@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="day6.NewTest"/>
+      <class name="day6.pro1"/>
+      <class name="day6.demo"/>
+       <class name="day6.pro2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
